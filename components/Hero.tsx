@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! Tôi là Dũng Đặng, nhà phát triển phần mềm tại Việt Nam.
+            Hi! I'm Dũng Đặng, fullstack developer in Việt-Nam.
           </p>
 
           <a href="#about">
