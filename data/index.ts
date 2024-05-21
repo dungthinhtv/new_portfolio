@@ -72,9 +72,9 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "DT LMS",
-    des: "Dungthinh Learning Management System.",
-    img: "/p1.svg",
+    title: "Academy LMS - Learning Management System",
+    des: "ACADEMY is a marketplace script for online learning. Here students and teachers are combined together for sharing knowledge through a structured course-based system.",
+    img: "/img/lms.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://dungthinh.ddns.net",
   },
@@ -212,7 +212,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev - Dungthinh Tech",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
