@@ -25,7 +25,7 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="http://dungthinh.ddns.net:88">
+        <a href="http://dungthinh.ddns.net:88" target="_blank">
           <MagicButton
             title="Let's chat with me"
             icon={<FaRocketchat />}
