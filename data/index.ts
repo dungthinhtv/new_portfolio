@@ -120,6 +120,22 @@ export const projects = [
   },
   {
     id: 7,
+    title: "DT Jobs Market",
+    des: "DT Instant Jobs Marketplace",
+    img: "/img/worknearn.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "http://dungthinh.ddns.net:89",
+  },
+  {
+    id: 8,
+    title: "DT CRM",
+    des: "DT Customer Relationship & Project Management",
+    img: "/img/pfcrm.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "http://dungthinh.ddns.net:8087",
+  },
+  {
+    id: 9,
     title: "DT 3D Art Gallery",
     des: "Wander through the virtual gallery halls, and engage with a variety of masterpieces, learning about their history and significance.",
     img: "/img/3dgallery.jpg",
@@ -127,7 +143,7 @@ export const projects = [
     link: "http://dungthinh.ddns.net:8083",
   },
   {
-    id: 8,
+    id: 10,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
